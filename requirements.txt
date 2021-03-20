@@ -1,6 +1,6 @@
 connexion==2.5.0
 Flask==1.1.1
-Jinja2==2.10.3
+Jinja2==2.11.3
 mysql-connector-python==8.0.19
 openapi-spec-validator==0.2.8
 PyMySQL==0.9.3
